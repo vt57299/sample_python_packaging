@@ -1,0 +1,15 @@
+crewai
+crewai_tools
+load_dotenv
+pyttsx3
+openai
+fpdf
+# langchain-openai
+# numpy
+# pandas
+# requests
+# google-auth
+# google-auth-oauthlib
+# google-auth-httplib2
+# google-api-python-client
+# langchain_google_genai

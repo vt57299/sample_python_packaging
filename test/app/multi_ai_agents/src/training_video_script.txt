@@ -1,0 +1,20 @@
+## Script for crewAI Training Video
+
+1. **Introduction** (1 minute)
+   - Welcome! Today we'll be diving into the world of crewAI, a revolutionary platform for Multi AI Agents Systems designed to streamline the process of managing autonomous AI agents.
+   - Let's explore the significance of crewAI in boosting productivity and efficiency across various tasks.
+
+2. **Main Content** (8 minutes)
+   - With crewAI, users can assemble a team of AI agents to tackle intricate, multi-step tasks with unparalleled precision and accuracy.
+   - Gain insights into the core principles of crafting effective AI agents through the platform and enhance your workflow efficiency.
+   - Step up your game with crewAI+ which empowers your crews with advanced capabilities and robust support, leading to a significant performance boost.
+   - Dive into a comprehensive short course offered by crewAI, delving into the fundamental strategies for designing and implementing AI agents effectively.
+   - Access a treasure trove of tutorials, guides, and a lively online community to amplify your utilization of crewAI to its fullest potential.
+
+3. **Conclusion** (1 minute)
+   - In conclusion, crewAI is reshaping the landscape of AI development for enterprises by emphasizing collaborative intelligence and cutting-edge tools.
+   - Recap the key takeaways from our discussion and encourage viewers to explore the endless possibilities offered by crewAI for their AI development endeavors.
+
+Thank you for joining us in this enlightening training session on crewAI. Embrace the realm of Multi AI Agent Systems with crewAI and revolutionize your approach to AI development.
+
+Begin!
